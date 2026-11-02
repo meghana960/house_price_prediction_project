@@ -1,0 +1,1401 @@
+area_sqft,bedrooms,bathrooms,age_years,location,parking,furnishing,price_lakhs
+784,1,1,27, متوسط,3,Semi-Furnished,25.83
+3352,6,5,10,Developing,1,Semi-Furnished,200.61
+2904,5,6,24,Prime,2,Semi-Furnished,257.09
+2095,5,4,24,Good,0,Semi-Furnished,183.69
+2073,4,4,21,Good,2,Furnished,195.81
+3669,6,5,1,Good,1,Semi-Furnished,281.43
+772,1,1,31,Prime,2,Unfurnished,62.5
+3065,5,4,34,Prime,3,Unfurnished,231.24
+1205,2,3,35,Developing,2,Furnished,81.26
+803,2,2,35,Good,1,Semi-Furnished,58.23
+2424,3,3,33,Prime,0,Semi-Furnished,203.75
+4108,6,6,26,Prime,1,Furnished,340.61
+3209,5,6,2,Good,3,Semi-Furnished,264.13
+3304,6,6,16,Prime,0,Furnished,273.39
+3140,6,6,8, متوسط,2,Furnished,229.16
+3397,5,4,7, متوسط,1,Unfurnished,255.64
+2374,3,2,29,Good,1,Semi-Furnished,167.04
+930,2,1,29, متوسط,2,Unfurnished,60.03
+3599,5,5,18,Prime,1,Furnished,288.02
+2138,4,3,26,Good,1,Semi-Furnished,156.76
+2326,2,1,4,Developing,2,Semi-Furnished,154.29
+1840,2,1,7, متوسط,3,Unfurnished,113.04
+1134,1,1,30,Developing,3,Unfurnished,76.12
+3925,4,5,16,Good,2,Semi-Furnished,276.22
+3380,4,4,19,Good,2,Semi-Furnished,256.26
+2864,4,5,16,Good,3,Furnished,223.21
+1959,3,3,7,Good,1,Semi-Furnished,159.16
+3535,6,6,29,Developing,1,Furnished,227.73
+2495,4,3,27,Prime,1,Semi-Furnished,208.89
+2112,2,2,24,Developing,2,Furnished,124.45
+2139,3,4,12,Developing,2,Unfurnished,142.31
+1302,3,3,23, متوسط,0,Semi-Furnished,98.77
+795,1,2,34,Good,3,Semi-Furnished,71.48
+2529,3,2,23,Good,1,Semi-Furnished,158.07
+3779,6,5,17,Good,3,Semi-Furnished,279.53
+689,1,2,9, متوسط,2,Furnished,78.49
+3668,6,5,18,Good,3,Unfurnished,267.0
+3553,5,6,13,Developing,2,Unfurnished,239.97
+1487,3,4,22, متوسط,2,Furnished,123.73
+2818,4,5,1,Good,0,Unfurnished,215.83
+1069,2,2,6, متوسط,1,Semi-Furnished,78.43
+3292,5,6,28,Good,3,Furnished,249.62
+3076,4,3,13,Developing,1,Semi-Furnished,214.76
+1779,1,1,15,Good,0,Furnished,117.18
+704,2,1,19,Developing,0,Furnished,48.08
+4090,6,6,15, متوسط,2,Unfurnished,267.82
+2121,2,3,27,Developing,2,Semi-Furnished,144.0
+3799,6,6,8,Good,3,Unfurnished,287.34
+2992,6,6,27,Developing,3,Unfurnished,200.51
+3368,3,2,7,Good,2,Unfurnished,234.7
+3299,4,3,13, متوسط,2,Semi-Furnished,211.15
+1179,1,2,21,Prime,3,Unfurnished,100.19
+1814,4,4,31,Good,0,Semi-Furnished,125.9
+2200,4,3,8,Good,2,Semi-Furnished,168.6
+2316,4,5,21,Good,1,Semi-Furnished,199.52
+614,1,2,2,Good,3,Unfurnished,68.07
+2499,3,3,2,Developing,3,Furnished,187.34
+1028,2,3,27,Good,2,Semi-Furnished,83.55
+3237,5,4,25, متوسط,2,Unfurnished,228.2
+3011,5,4,13,Prime,2,Semi-Furnished,236.14
+3909,6,5,22, متوسط,2,Unfurnished,267.17
+3242,5,5,13, متوسط,0,Semi-Furnished,229.99
+1824,3,2,9,Good,1,Furnished,180.8
+4078,6,5,15, متوسط,2,Semi-Furnished,292.11
+1990,4,5,11,Developing,2,Semi-Furnished,146.19
+1671,1,2,29, متوسط,0,Furnished,113.18
+3845,4,5,14,Good,3,Furnished,306.53
+1839,4,5,11,Good,3,Furnished,152.94
+736,2,3,19, متوسط,2,Unfurnished,55.62
+2210,3,3,27,Good,0,Unfurnished,152.26
+3433,4,4,9, متوسط,3,Semi-Furnished,236.26
+1160,2,3,33,Good,0,Furnished,91.96
+2186,4,4,16, متوسط,1,Semi-Furnished,147.48
+937,3,2,23,Prime,3,Unfurnished,125.83
+3024,5,6,34,Prime,2,Unfurnished,220.85
+2233,3,2,15,Developing,0,Semi-Furnished,141.56
+1688,2,3,7,Developing,0,Furnished,133.44
+1300,2,2,26,Developing,1,Unfurnished,78.14
+2566,4,5,0,Developing,2,Unfurnished,176.38
+2961,4,3,16,Good,2,Furnished,205.87
+3976,6,6,35,Good,0,Unfurnished,270.37
+2089,5,5,14,Prime,0,Furnished,190.21
+1052,3,3,24,Good,2,Furnished,108.82
+3572,5,4,18,Good,0,Unfurnished,233.24
+2811,5,6,7,Developing,0,Semi-Furnished,214.51
+3075,5,5,11,Prime,1,Semi-Furnished,255.36
+814,2,3,18,Prime,2,Unfurnished,102.95
+1621,3,3,3,Good,0,Unfurnished,155.6
+3329,6,5,14,Good,0,Furnished,250.74
+3570,6,6,14,Good,0,Semi-Furnished,259.74
+2082,4,3,30, متوسط,1,Unfurnished,134.54
+3467,6,5,4,Good,0,Semi-Furnished,263.77
+3606,4,5,30, متوسط,0,Unfurnished,227.74
+1903,3,4,14,Developing,1,Unfurnished,121.4
+3817,5,6,23, متوسط,0,Furnished,237.41
+1531,1,1,20, متوسط,1,Furnished,95.67
+1348,3,4,10,Good,2,Unfurnished,131.26
+3009,6,5,33,Prime,0,Unfurnished,236.68
+2837,5,6,8,Good,2,Furnished,249.93
+974,2,2,1,Developing,2,Furnished,110.79
+3572,6,5,27, متوسط,2,Unfurnished,254.02
+1199,2,2,22,Good,2,Furnished,123.64
+3468,5,5,32,Good,3,Furnished,263.14
+477,1,1,16,Developing,0,Unfurnished,49.05
+3438,6,6,0, متوسط,0,Unfurnished,275.5
+3400,5,5,0, متوسط,1,Unfurnished,256.41
+3376,4,3,15,Developing,2,Unfurnished,225.01
+2943,4,3,8, متوسط,3,Semi-Furnished,209.3
+2218,3,4,33, متوسط,3,Unfurnished,148.84
+3094,6,6,4,Good,2,Semi-Furnished,249.72
+1489,3,3,31,Prime,1,Semi-Furnished,143.8
+3377,5,5,7,Developing,1,Unfurnished,222.54
+2533,4,4,4, متوسط,0,Unfurnished,181.22
+2170,3,3,9,Good,1,Unfurnished,138.84
+2346,3,3,5, متوسط,2,Furnished,197.56
+2582,3,4,14,Prime,0,Unfurnished,201.56
+589,1,2,11,Developing,3,Semi-Furnished,58.11
+974,1,1,19,Good,3,Unfurnished,99.91
+1370,1,2,19, متوسط,1,Unfurnished,93.0
+879,2,3,0, متوسط,3,Semi-Furnished,109.78
+2098,4,3,4,Good,0,Unfurnished,154.49
+2956,3,4,5,Prime,3,Semi-Furnished,270.9
+2904,4,4,7, متوسط,3,Unfurnished,222.52
+2216,4,5,3,Prime,0,Unfurnished,202.44
+3656,6,6,11,Prime,2,Unfurnished,310.23
+2569,5,6,19, متوسط,1,Furnished,184.12
+746,1,1,11,Good,3,Furnished,79.62
+3318,4,3,11,Good,0,Unfurnished,249.27
+2604,3,4,16,Good,0,Unfurnished,164.72
+2830,5,5,19,Developing,1,Unfurnished,200.03
+2570,4,4,11,Good,0,Furnished,208.39
+2525,5,4,7,Good,1,Semi-Furnished,229.76
+789,2,1,14,Good,2,Unfurnished,59.5
+2547,4,5,0,Good,2,Unfurnished,227.4
+3430,4,3,17,Good,2,Furnished,240.49
+1589,2,2,33,Prime,0,Semi-Furnished,123.98
+2710,4,3,14,Prime,0,Furnished,206.89
+565,1,1,3,Good,3,Semi-Furnished,61.27
+1753,2,1,25,Developing,1,Furnished,113.71
+2087,3,4,4,Prime,0,Furnished,178.14
+4135,6,6,6,Good,1,Furnished,320.11
+1254,1,1,5,Developing,0,Unfurnished,70.46
+1487,3,3,31,Developing,1,Unfurnished,79.68
+1981,3,3,35, متوسط,3,Unfurnished,125.47
+4172,6,6,20,Good,1,Semi-Furnished,304.2
+3650,6,6,22,Good,2,Semi-Furnished,269.32
+580,1,1,23,Good,1,Semi-Furnished,57.56
+1327,2,1,21,Prime,1,Semi-Furnished,130.39
+3531,6,6,19,Good,2,Semi-Furnished,281.04
+668,1,1,35, متوسط,2,Unfurnished,35.97
+3658,4,3,26,Good,1,Unfurnished,230.86
+1505,1,2,3, متوسط,0,Unfurnished,105.64
+3891,6,5,14,Good,3,Furnished,300.05
+1550,2,1,35,Good,0,Semi-Furnished,88.17
+2078,3,3,14, متوسط,3,Furnished,148.1
+2932,5,5,7,Developing,1,Furnished,206.08
+923,1,1,31,Good,3,Unfurnished,69.32
+2538,4,3,22, متوسط,1,Semi-Furnished,166.26
+2343,5,4,20,Good,2,Unfurnished,194.65
+3389,4,4,15,Prime,2,Furnished,247.18
+4185,6,6,4, متوسط,1,Unfurnished,275.32
+2941,4,3,13,Prime,0,Unfurnished,222.9
+1984,2,2,15,Good,2,Semi-Furnished,148.66
+1973,3,4,33,Good,2,Unfurnished,128.91
+2017,4,3,11,Good,1,Furnished,163.6
+3502,6,6,5,Prime,3,Unfurnished,286.25
+1654,2,1,15,Good,2,Unfurnished,120.7
+1076,3,2,35,Developing,0,Unfurnished,65.15
+1703,3,2,17, متوسط,3,Unfurnished,117.08
+535,2,1,13,Good,0,Semi-Furnished,81.91
+848,1,1,24,Prime,2,Unfurnished,92.6
+787,1,1,23, متوسط,1,Unfurnished,41.85
+3343,5,5,10,Prime,2,Furnished,277.0
+3158,6,6,34, متوسط,3,Furnished,232.78
+3062,5,5,21, متوسط,2,Unfurnished,229.84
+2182,3,3,2,Good,2,Semi-Furnished,171.61
+3138,6,6,14,Good,3,Semi-Furnished,261.4
+1054,1,1,33,Prime,2,Unfurnished,92.72
+3827,5,6,14,Prime,3,Unfurnished,315.48
+2328,4,3,20,Good,1,Semi-Furnished,193.63
+3967,6,6,22,Developing,0,Semi-Furnished,266.45
+1021,2,3,25,Good,0,Semi-Furnished,86.36
+2314,4,5,31, متوسط,2,Unfurnished,168.2
+3061,5,5,5, متوسط,2,Semi-Furnished,227.44
+2308,4,3,18,Prime,0,Semi-Furnished,213.0
+2123,2,3,19,Prime,0,Unfurnished,167.96
+1073,2,1,5,Good,3,Unfurnished,97.6
+1878,2,2,24, متوسط,2,Unfurnished,116.57
+1345,1,2,4,Good,3,Furnished,109.22
+1580,2,3,16, متوسط,0,Unfurnished,115.78
+3013,5,6,11,Developing,0,Semi-Furnished,203.42
+2813,4,3,5, متوسط,1,Furnished,218.74
+2726,5,6,29,Developing,3,Unfurnished,173.76
+1806,2,1,8, متوسط,2,Unfurnished,126.86
+4048,6,6,9,Developing,3,Semi-Furnished,298.29
+778,1,2,30,Developing,1,Unfurnished,18.0
+1734,3,3,31, متوسط,1,Semi-Furnished,144.04
+892,2,3,1, متوسط,2,Furnished,88.91
+1721,2,2,10,Developing,3,Semi-Furnished,122.75
+4057,6,5,25,Good,1,Semi-Furnished,294.24
+1823,3,2,28, متوسط,2,Unfurnished,130.68
+3857,4,4,35,Good,3,Unfurnished,259.97
+2306,2,3,19,Developing,1,Unfurnished,153.55
+3073,5,5,0,Good,3,Furnished,259.24
+2165,3,4,31, متوسط,2,Semi-Furnished,170.36
+1447,2,2,5, متوسط,3,Furnished,127.5
+3315,5,4,4,Developing,1,Unfurnished,250.1
+4084,6,5,24,Good,2,Furnished,306.83
+1438,3,3,21, متوسط,1,Semi-Furnished,88.37
+3370,4,5,2, متوسط,2,Unfurnished,270.38
+1429,1,2,6,Developing,1,Unfurnished,86.2
+3138,4,3,21,Developing,2,Semi-Furnished,221.49
+3408,5,5,9, متوسط,3,Semi-Furnished,248.91
+2135,4,5,24, متوسط,1,Unfurnished,167.06
+3213,5,5,14,Prime,1,Semi-Furnished,251.35
+1470,1,1,21,Developing,1,Furnished,97.91
+747,1,1,17,Good,2,Unfurnished,65.7
+811,1,1,13, متوسط,2,Semi-Furnished,84.8
+2126,3,2,12, متوسط,2,Semi-Furnished,158.29
+3834,6,6,25,Good,0,Furnished,291.05
+928,1,1,18,Good,0,Semi-Furnished,51.07
+2159,3,3,21,Good,0,Semi-Furnished,159.17
+3090,6,6,20,Developing,3,Semi-Furnished,229.58
+1208,1,1,7,Good,3,Semi-Furnished,109.77
+3156,4,4,32,Prime,0,Semi-Furnished,245.11
+1597,3,2,20, متوسط,0,Unfurnished,105.34
+3482,4,5,25,Good,3,Unfurnished,246.35
+2622,4,5,31,Developing,2,Furnished,193.23
+2500,4,5,33,Good,1,Furnished,162.21
+1112,2,3,24,Good,2,Unfurnished,103.23
+2187,5,5,28,Prime,0,Unfurnished,183.58
+3662,5,6,16,Good,0,Unfurnished,251.76
+523,2,2,26,Good,1,Furnished,68.8
+3294,5,4,11, متوسط,3,Semi-Furnished,252.55
+2297,3,4,25,Good,3,Furnished,192.35
+3147,5,4,3,Good,0,Unfurnished,234.81
+2937,4,5,32,Good,2,Semi-Furnished,223.24
+2070,3,3,8,Good,3,Semi-Furnished,181.67
+1607,3,4,23,Developing,3,Semi-Furnished,117.19
+2802,5,5,0,Prime,3,Semi-Furnished,242.79
+975,1,1,5,Developing,0,Semi-Furnished,59.45
+2640,5,4,35,Good,0,Furnished,205.8
+805,2,3,30,Prime,0,Semi-Furnished,90.87
+2886,6,5,8,Good,0,Unfurnished,214.98
+2807,5,5,4,Prime,0,Unfurnished,217.07
+766,2,2,29, متوسط,1,Semi-Furnished,69.16
+3290,4,4,35,Good,2,Unfurnished,216.44
+2009,3,2,6,Good,1,Unfurnished,160.96
+3400,5,5,23, متوسط,1,Furnished,252.93
+606,1,1,10, متوسط,0,Furnished,39.82
+1122,1,1,26,Developing,0,Semi-Furnished,60.97
+2302,3,2,15,Developing,3,Semi-Furnished,153.21
+1155,3,4,4, متوسط,2,Furnished,119.78
+1686,2,1,11, متوسط,0,Furnished,134.65
+2927,5,4,19, متوسط,3,Furnished,200.48
+991,1,1,28,Good,3,Semi-Furnished,88.34
+2991,5,4,0, متوسط,3,Semi-Furnished,240.68
+837,1,1,34,Prime,0,Furnished,80.4
+1106,2,1,23, متوسط,2,Unfurnished,75.43
+2653,5,5,31,Developing,3,Semi-Furnished,189.79
+3425,6,6,33,Prime,3,Semi-Furnished,276.76
+1089,2,2,5,Developing,0,Furnished,93.03
+1574,3,4,3,Developing,3,Unfurnished,132.16
+3919,5,6,27,Good,1,Unfurnished,260.41
+4161,6,5,6, متوسط,1,Semi-Furnished,304.34
+2628,5,5,5,Developing,2,Furnished,215.79
+2126,4,3,16,Developing,3,Semi-Furnished,155.86
+1750,3,3,32,Prime,0,Furnished,133.62
+2746,5,4,28,Good,2,Unfurnished,201.75
+2665,4,5,18, متوسط,3,Furnished,202.71
+1555,3,2,7,Good,2,Unfurnished,120.14
+535,1,1,12,Good,1,Semi-Furnished,57.5
+1018,1,1,24,Prime,0,Semi-Furnished,78.18
+4044,6,6,5,Prime,2,Unfurnished,325.66
+2018,1,2,18, متوسط,2,Furnished,138.18
+2258,4,5,0, متوسط,2,Unfurnished,159.44
+2201,1,1,11, متوسط,3,Furnished,154.32
+3385,4,3,8, متوسط,2,Unfurnished,228.9
+693,1,2,24,Good,2,Semi-Furnished,74.61
+760,2,2,32,Good,0,Furnished,66.7
+1484,1,2,5,Prime,2,Unfurnished,127.65
+2274,3,4,28,Good,0,Furnished,159.92
+2966,6,6,23,Good,2,Furnished,231.92
+2290,3,4,34,Prime,0,Unfurnished,175.38
+2104,5,6,32,Prime,3,Semi-Furnished,196.9
+3966,6,6,3,Prime,1,Unfurnished,310.59
+1053,2,1,26, متوسط,1,Semi-Furnished,68.64
+2593,5,4,21, متوسط,0,Semi-Furnished,181.05
+2483,4,4,4,Developing,0,Semi-Furnished,206.86
+2225,3,3,9, متوسط,3,Furnished,160.88
+3478,5,4,33, متوسط,1,Unfurnished,217.94
+1451,2,1,19,Prime,2,Furnished,176.18
+4026,5,6,12, متوسط,3,Semi-Furnished,288.88
+1693,2,3,11,Prime,2,Semi-Furnished,141.01
+2493,3,2,30,Good,0,Semi-Furnished,179.63
+2402,4,4,10,Good,1,Semi-Furnished,180.99
+3636,6,5,5,Good,1,Unfurnished,284.14
+2095,3,4,20,Good,1,Unfurnished,156.49
+1517,2,3,35, متوسط,0,Unfurnished,88.01
+531,1,2,6,Developing,2,Semi-Furnished,69.51
+1813,3,3,9, متوسط,1,Semi-Furnished,145.26
+3548,5,5,16, متوسط,1,Furnished,262.42
+487,1,2,7, متوسط,1,Unfurnished,53.85
+3810,6,6,23,Prime,1,Semi-Furnished,289.97
+2485,3,3,9, متوسط,0,Semi-Furnished,180.26
+975,1,2,4, متوسط,1,Furnished,99.94
+1583,3,3,9,Good,3,Unfurnished,141.43
+2527,4,5,33,Good,2,Unfurnished,207.15
+1633,1,1,33,Developing,2,Unfurnished,96.27
+857,2,3,18, متوسط,3,Furnished,86.08
+2947,5,4,14,Good,2,Unfurnished,226.3
+2970,5,4,29, متوسط,0,Furnished,206.45
+895,2,1,6,Good,1,Semi-Furnished,76.01
+1504,1,1,23,Good,1,Furnished,110.89
+1364,2,3,24,Good,1,Semi-Furnished,114.17
+2922,4,3,25,Good,0,Semi-Furnished,200.07
+3188,5,4,7, متوسط,0,Furnished,235.14
+3176,6,6,25,Prime,1,Semi-Furnished,259.39
+3970,6,6,22, متوسط,3,Unfurnished,285.03
+3332,6,6,31,Good,2,Unfurnished,253.27
+1652,4,4,6, متوسط,3,Unfurnished,143.27
+854,1,1,22, متوسط,0,Semi-Furnished,40.96
+2754,5,4,29, متوسط,1,Furnished,216.91
+3885,6,5,10, متوسط,2,Unfurnished,271.47
+4106,6,6,26,Developing,1,Furnished,274.66
+1313,2,2,3,Good,1,Semi-Furnished,115.05
+1336,3,4,25, متوسط,1,Furnished,103.17
+590,1,2,21, متوسط,0,Unfurnished,61.23
+979,1,1,6,Good,3,Semi-Furnished,111.78
+2530,4,3,2,Good,3,Unfurnished,207.28
+2500,4,5,26,Good,0,Semi-Furnished,186.31
+1840,3,2,8,Good,1,Semi-Furnished,157.83
+1612,3,3,17,Good,2,Semi-Furnished,138.6
+3561,6,6,2,Good,3,Furnished,284.97
+2175,3,4,34, متوسط,3,Semi-Furnished,154.38
+3480,6,6,19,Good,1,Semi-Furnished,257.46
+4062,6,5,33, متوسط,2,Semi-Furnished,274.99
+1639,2,1,5,Good,3,Furnished,144.05
+1210,3,2,7, متوسط,3,Unfurnished,111.64
+4023,6,5,21,Prime,1,Semi-Furnished,297.69
+2830,3,2,21,Good,3,Furnished,213.92
+1540,2,3,28,Prime,1,Furnished,128.72
+2781,3,2,33, متوسط,0,Semi-Furnished,163.53
+2381,4,5,29,Good,3,Semi-Furnished,180.26
+3845,6,6,5,Developing,3,Unfurnished,259.06
+1409,2,2,11,Good,1,Furnished,135.43
+4167,6,5,32, متوسط,1,Unfurnished,260.26
+3960,6,5,19,Good,1,Semi-Furnished,277.56
+1127,2,2,31, متوسط,0,Semi-Furnished,90.3
+1067,2,1,20,Good,3,Unfurnished,85.54
+2449,4,5,1,Good,0,Semi-Furnished,198.79
+618,1,1,17,Good,2,Furnished,57.5
+1570,2,1,29,Prime,0,Semi-Furnished,137.7
+2081,1,2,23,Prime,2,Unfurnished,168.57
+4085,6,6,4,Developing,3,Unfurnished,294.64
+4171,6,5,7,Good,2,Furnished,318.31
+1018,2,3,30,Prime,2,Unfurnished,104.97
+3793,6,5,35,Developing,3,Semi-Furnished,244.07
+790,1,2,27,Prime,3,Furnished,85.52
+3257,5,6,3,Good,3,Unfurnished,271.86
+3621,6,6,22, متوسط,0,Semi-Furnished,262.23
+3790,5,6,29,Developing,2,Semi-Furnished,240.98
+1287,2,1,23, متوسط,3,Unfurnished,90.01
+3800,6,6,21,Good,1,Semi-Furnished,275.45
+884,1,1,16,Developing,2,Unfurnished,42.38
+2395,4,4,8,Prime,0,Semi-Furnished,209.46
+2210,4,3,10,Developing,3,Furnished,161.16
+1634,2,2,26,Developing,2,Semi-Furnished,91.94
+532,2,3,2,Developing,2,Unfurnished,39.81
+3345,6,6,3,Good,3,Semi-Furnished,251.96
+1708,3,2,14,Prime,0,Furnished,153.28
+2931,4,3,27, متوسط,1,Unfurnished,188.73
+1988,2,3,23,Good,3,Unfurnished,136.99
+1851,2,2,21, متوسط,0,Unfurnished,125.36
+3773,6,6,19,Developing,3,Semi-Furnished,262.08
+804,1,1,3, متوسط,1,Semi-Furnished,76.39
+3212,5,4,11,Good,2,Semi-Furnished,241.62
+3250,4,4,2,Good,2,Unfurnished,232.8
+1874,3,3,27,Prime,2,Unfurnished,159.99
+1434,2,3,27,Good,3,Unfurnished,99.27
+469,3,3,9,Prime,1,Semi-Furnished,101.02
+3963,5,6,10, متوسط,0,Furnished,266.92
+4003,6,6,11, متوسط,1,Semi-Furnished,294.73
+1353,2,1,32, متوسط,2,Furnished,88.75
+569,1,1,17,Good,3,Furnished,82.2
+910,1,1,27, متوسط,3,Semi-Furnished,51.23
+703,1,1,16, متوسط,1,Unfurnished,43.33
+3566,5,4,25,Developing,3,Unfurnished,236.25
+3794,6,6,19, متوسط,0,Unfurnished,274.57
+1024,1,1,10, متوسط,0,Unfurnished,90.52
+3250,6,5,31,Good,0,Unfurnished,233.1
+1122,1,1,25,Good,3,Unfurnished,108.71
+1827,3,2,27,Developing,0,Furnished,114.36
+2697,3,2,34,Good,2,Semi-Furnished,196.32
+3149,5,4,8,Good,3,Furnished,237.49
+3729,6,6,3,Good,3,Furnished,300.89
+617,1,2,20,Good,3,Furnished,45.23
+1186,2,2,11, متوسط,0,Unfurnished,74.02
+1501,1,1,15, متوسط,1,Unfurnished,101.61
+1613,2,3,8,Good,2,Unfurnished,118.37
+4192,5,6,14,Good,2,Unfurnished,303.28
+3365,4,3,14,Developing,2,Unfurnished,227.45
+1651,3,4,12,Good,2,Furnished,144.29
+4094,6,5,26,Developing,1,Unfurnished,252.14
+2322,6,5,21,Good,0,Unfurnished,182.37
+2327,3,3,17, متوسط,1,Unfurnished,145.95
+2076,4,5,4, متوسط,1,Furnished,170.87
+989,2,1,20,Developing,2,Furnished,73.82
+3953,6,5,6,Prime,3,Unfurnished,308.34
+502,1,1,11,Developing,2,Furnished,66.25
+1103,2,2,14, متوسط,2,Semi-Furnished,81.33
+1311,2,3,5, متوسط,0,Semi-Furnished,122.15
+1497,2,1,14,Good,2,Furnished,112.94
+944,1,1,9,Prime,1,Furnished,108.14
+517,1,1,30,Good,0,Unfurnished,56.83
+2991,5,4,30,Good,0,Unfurnished,223.88
+4084,6,5,0,Good,3,Unfurnished,301.08
+906,1,1,21, متوسط,3,Semi-Furnished,75.04
+1562,2,2,23,Good,2,Furnished,131.41
+2348,4,4,13,Prime,3,Semi-Furnished,202.51
+3928,6,6,16,Prime,0,Semi-Furnished,311.23
+3053,4,4,28,Good,1,Furnished,242.36
+3323,6,5,13,Good,3,Unfurnished,261.48
+2629,5,5,2, متوسط,0,Unfurnished,205.59
+2013,3,2,13,Prime,2,Semi-Furnished,184.23
+1199,3,4,9,Developing,0,Semi-Furnished,79.86
+3691,6,5,13,Good,1,Semi-Furnished,280.58
+3465,6,5,8,Prime,1,Furnished,274.67
+544,1,2,5,Developing,1,Semi-Furnished,41.99
+3132,5,5,35,Good,3,Semi-Furnished,255.45
+766,2,1,4,Good,3,Semi-Furnished,87.19
+3221,4,5,25,Developing,2,Semi-Furnished,203.02
+3547,6,5,25,Developing,2,Unfurnished,250.67
+941,1,2,22, متوسط,0,Furnished,57.98
+2076,3,4,32,Prime,0,Furnished,167.31
+914,2,2,0, متوسط,0,Furnished,102.66
+2577,5,5,10,Developing,3,Furnished,198.75
+3928,6,6,6,Developing,0,Semi-Furnished,253.6
+753,1,1,20,Prime,1,Unfurnished,88.14
+1940,2,1,22,Good,3,Unfurnished,134.34
+4099,6,5,32,Good,2,Semi-Furnished,306.12
+1578,3,2,13,Prime,2,Semi-Furnished,144.97
+945,2,3,8, متوسط,0,Furnished,99.99
+2282,4,3,33,Good,2,Semi-Furnished,190.97
+2356,3,3,24,Good,2,Semi-Furnished,163.87
+2935,5,6,27,Prime,1,Unfurnished,232.76
+1626,2,3,16,Good,2,Semi-Furnished,138.29
+4033,6,5,16,Prime,3,Furnished,307.63
+2403,4,3,14,Good,1,Semi-Furnished,189.41
+1524,2,3,26,Prime,1,Furnished,137.32
+4051,6,5,7,Developing,1,Unfurnished,270.81
+3918,6,5,35,Prime,3,Furnished,299.83
+2321,3,4,6, متوسط,0,Furnished,173.91
+543,2,3,16,Good,3,Furnished,82.53
+2688,4,5,11,Prime,3,Unfurnished,221.0
+2531,4,5,23,Good,1,Semi-Furnished,187.09
+1005,1,1,24,Prime,2,Semi-Furnished,97.95
+2827,4,3,33,Prime,3,Semi-Furnished,218.6
+3602,5,4,28,Good,3,Furnished,255.44
+847,1,1,8, متوسط,1,Unfurnished,68.47
+3162,6,6,7,Prime,0,Furnished,249.78
+976,1,1,31,Good,2,Furnished,71.46
+3258,6,6,17, متوسط,0,Semi-Furnished,232.98
+2021,3,4,3,Good,0,Furnished,161.23
+474,1,2,29,Good,3,Furnished,79.17
+4073,6,5,23,Prime,1,Unfurnished,302.79
+1072,2,2,0,Good,2,Semi-Furnished,112.48
+2685,6,6,28,Good,0,Furnished,208.88
+1130,1,2,21,Developing,0,Semi-Furnished,68.21
+3948,4,4,22,Developing,0,Unfurnished,227.06
+3218,5,4,31,Developing,1,Furnished,209.6
+3466,5,6,17,Good,0,Furnished,248.04
+2070,4,5,16,Prime,1,Semi-Furnished,186.62
+2202,4,4,22,Good,1,Semi-Furnished,142.39
+2828,4,3,7,Good,2,Unfurnished,199.05
+3392,6,6,5,Prime,2,Semi-Furnished,304.08
+3626,6,6,30,Prime,1,Furnished,294.59
+516,1,2,7,Good,1,Semi-Furnished,83.06
+2938,5,5,18,Good,0,Semi-Furnished,239.04
+859,2,1,9,Good,1,Furnished,99.17
+1529,2,2,8, متوسط,3,Semi-Furnished,114.36
+3560,6,6,21,Good,3,Furnished,262.4
+1389,2,3,28,Developing,1,Unfurnished,99.06
+3438,5,4,15,Good,3,Unfurnished,252.91
+2186,5,4,4, متوسط,2,Semi-Furnished,208.86
+1322,1,1,8,Good,0,Unfurnished,96.83
+1703,1,1,5,Good,3,Unfurnished,155.29
+2440,3,4,31,Prime,1,Furnished,193.97
+3319,5,4,11,Prime,2,Semi-Furnished,282.73
+2722,4,4,13, متوسط,2,Semi-Furnished,217.42
+3949,5,6,2,Good,1,Furnished,285.82
+3704,5,6,16,Prime,2,Semi-Furnished,285.2
+3275,4,5,32,Developing,2,Semi-Furnished,197.93
+2711,6,5,14,Prime,1,Unfurnished,218.75
+1536,4,5,23, متوسط,1,Semi-Furnished,134.03
+1997,3,3,6, متوسط,2,Unfurnished,146.68
+895,1,1,5,Good,0,Semi-Furnished,84.3
+1853,2,2,26,Good,0,Furnished,142.09
+3924,5,5,2,Prime,3,Unfurnished,285.23
+2047,3,3,16, متوسط,1,Furnished,166.23
+876,1,1,11,Good,2,Furnished,83.54
+2894,4,4,0,Good,2,Semi-Furnished,234.36
+4059,5,5,19,Good,3,Unfurnished,294.34
+3703,5,4,34,Developing,2,Semi-Furnished,251.31
+1477,2,3,2, متوسط,2,Furnished,124.28
+2152,4,3,29,Developing,3,Semi-Furnished,121.13
+2441,4,5,19, متوسط,3,Furnished,188.09
+1379,1,1,26, متوسط,0,Furnished,90.05
+1457,3,4,3,Good,2,Semi-Furnished,129.07
+1337,1,1,31,Developing,0,Furnished,75.85
+4179,6,5,0,Good,3,Semi-Furnished,311.01
+3247,5,4,32,Good,0,Semi-Furnished,210.97
+3603,4,5,23, متوسط,0,Unfurnished,241.27
+3512,5,6,12, متوسط,0,Semi-Furnished,241.3
+4046,6,5,0,Prime,2,Semi-Furnished,317.65
+844,2,2,21,Good,0,Furnished,77.62
+3756,6,6,3,Good,0,Unfurnished,296.66
+699,2,1,21,Developing,2,Furnished,55.5
+2232,4,4,27,Good,3,Furnished,181.46
+2679,4,5,9,Developing,2,Semi-Furnished,187.21
+1791,3,4,8,Good,1,Furnished,163.66
+998,3,4,7, متوسط,2,Furnished,120.83
+1171,3,2,8,Prime,2,Furnished,144.88
+3542,4,3,4,Developing,1,Semi-Furnished,242.55
+1645,2,2,8,Good,2,Semi-Furnished,143.95
+1613,4,3,23,Good,0,Unfurnished,113.8
+3912,5,5,10,Good,0,Unfurnished,266.65
+989,1,1,28,Good,2,Semi-Furnished,76.44
+3882,6,5,29,Good,1,Unfurnished,262.45
+3903,6,5,27, متوسط,0,Unfurnished,245.34
+2694,4,3,19,Developing,0,Unfurnished,148.95
+1070,1,2,11, متوسط,3,Unfurnished,66.94
+1034,1,1,33, متوسط,1,Semi-Furnished,59.54
+1517,2,3,7,Good,0,Semi-Furnished,127.65
+2615,3,2,16,Developing,2,Semi-Furnished,159.81
+1026,3,2,16,Developing,2,Furnished,86.88
+2158,4,4,26,Good,1,Semi-Furnished,162.88
+883,2,3,19,Developing,3,Furnished,89.4
+2476,3,2,28,Good,1,Furnished,174.44
+529,1,1,33, متوسط,2,Unfurnished,41.7
+3108,4,5,14,Developing,2,Unfurnished,211.28
+657,1,1,31, متوسط,2,Semi-Furnished,28.86
+1180,1,1,6,Prime,0,Semi-Furnished,114.61
+1104,1,2,32, متوسط,2,Semi-Furnished,57.99
+3566,4,5,6,Prime,2,Unfurnished,275.93
+650,1,1,30, متوسط,0,Unfurnished,28.01
+2059,4,4,14,Good,0,Semi-Furnished,172.53
+2666,4,3,34, متوسط,2,Semi-Furnished,161.02
+2384,5,4,4,Developing,0,Semi-Furnished,177.0
+3002,5,5,16,Good,3,Unfurnished,237.58
+3461,6,5,32,Good,0,Unfurnished,254.45
+1926,2,3,1, متوسط,3,Semi-Furnished,140.21
+3555,6,6,9,Good,2,Semi-Furnished,276.09
+1642,3,2,3,Prime,1,Semi-Furnished,161.97
+4141,6,6,11,Prime,1,Semi-Furnished,339.87
+2341,4,3,14,Good,1,Unfurnished,160.98
+3210,5,5,22, متوسط,2,Unfurnished,211.82
+3731,5,4,9, متوسط,3,Semi-Furnished,296.81
+3422,4,4,5,Prime,0,Semi-Furnished,262.48
+3641,5,5,6,Good,2,Semi-Furnished,251.16
+2461,4,4,33,Good,3,Furnished,182.21
+613,1,1,34,Good,1,Semi-Furnished,18.59
+2299,3,2,7, متوسط,2,Unfurnished,164.69
+1130,2,3,7,Good,0,Unfurnished,112.92
+3784,6,6,1, متوسط,3,Furnished,276.23
+1337,3,4,34,Developing,0,Unfurnished,79.09
+1305,3,3,25, متوسط,1,Unfurnished,107.21
+1385,3,4,27, متوسط,1,Semi-Furnished,85.42
+2859,4,4,10,Prime,1,Semi-Furnished,218.19
+2592,5,6,23,Prime,0,Semi-Furnished,217.57
+4008,6,5,2,Prime,2,Unfurnished,306.11
+2010,4,3,24, متوسط,0,Furnished,143.02
+1508,2,2,20,Developing,3,Furnished,91.67
+634,1,1,11,Good,0,Semi-Furnished,67.99
+476,1,2,25,Good,1,Furnished,55.54
+1851,3,2,23,Good,3,Semi-Furnished,152.85
+3921,5,6,15, متوسط,0,Unfurnished,267.01
+2414,4,3,6, متوسط,0,Furnished,182.95
+3800,6,6,0, متوسط,2,Semi-Furnished,264.84
+831,1,2,33,Developing,0,Unfurnished,46.07
+799,1,1,10,Good,3,Semi-Furnished,78.67
+3575,5,6,10, متوسط,1,Semi-Furnished,253.33
+850,1,2,24, متوسط,3,Semi-Furnished,79.13
+644,2,3,9,Good,0,Furnished,74.54
+1965,3,3,13,Developing,0,Furnished,153.94
+3918,6,6,25,Prime,3,Unfurnished,318.27
+3035,4,3,21, متوسط,3,Semi-Furnished,217.41
+821,2,2,23, متوسط,3,Semi-Furnished,59.34
+3589,6,6,0,Developing,1,Furnished,237.86
+3613,6,6,16,Good,1,Unfurnished,280.96
+3452,5,5,17,Good,2,Furnished,261.65
+3834,6,5,22,Developing,1,Unfurnished,243.13
+1349,2,2,5, متوسط,0,Semi-Furnished,118.43
+4123,6,5,5,Good,1,Semi-Furnished,293.68
+1652,3,4,27, متوسط,2,Furnished,122.52
+3457,6,6,24,Good,0,Furnished,266.03
+2622,5,4,29, متوسط,1,Semi-Furnished,170.8
+3373,6,5,9,Developing,1,Unfurnished,233.85
+2804,5,6,35,Good,0,Furnished,224.24
+2859,4,5,9,Good,0,Semi-Furnished,220.93
+2761,5,6,23,Developing,1,Semi-Furnished,209.07
+3371,5,4,5, متوسط,0,Furnished,256.06
+3221,5,4,33,Developing,1,Semi-Furnished,206.6
+954,1,1,11,Good,2,Furnished,63.98
+3547,6,6,28,Developing,3,Semi-Furnished,231.32
+2460,4,5,11,Prime,0,Furnished,225.31
+1661,2,3,28,Good,1,Semi-Furnished,106.65
+2378,5,4,16,Good,0,Semi-Furnished,185.77
+4076,5,4,2, متوسط,1,Semi-Furnished,285.74
+3665,4,5,6,Developing,1,Semi-Furnished,263.81
+3576,6,6,24, متوسط,3,Unfurnished,245.88
+2185,3,4,6, متوسط,1,Semi-Furnished,156.35
+3390,5,4,9,Good,3,Unfurnished,252.77
+1894,2,1,19,Good,0,Furnished,143.23
+3023,5,4,9,Good,0,Semi-Furnished,227.86
+2848,6,6,4,Prime,0,Furnished,268.83
+1386,3,4,22,Good,1,Semi-Furnished,113.14
+1449,2,2,24,Developing,0,Unfurnished,86.94
+679,1,1,26, متوسط,0,Unfurnished,46.49
+974,1,2,33, متوسط,0,Semi-Furnished,55.22
+2076,1,1,4,Good,3,Semi-Furnished,166.86
+2242,4,5,15, متوسط,3,Furnished,180.85
+1069,2,3,8,Prime,0,Furnished,133.66
+2013,2,3,32,Good,3,Unfurnished,145.34
+2715,4,5,19,Good,0,Furnished,212.49
+1322,1,1,3,Good,1,Furnished,107.37
+1718,2,2,24,Prime,1,Unfurnished,133.22
+1828,3,2,1, متوسط,1,Unfurnished,151.98
+2343,2,3,9,Good,3,Semi-Furnished,187.74
+1823,3,4,25,Good,2,Semi-Furnished,135.04
+3213,6,5,18,Good,2,Unfurnished,246.19
+1678,2,3,27, متوسط,2,Furnished,91.85
+2077,1,1,20,Good,2,Semi-Furnished,137.05
+1872,2,2,30,Good,0,Semi-Furnished,141.39
+1135,3,2,20, متوسط,1,Unfurnished,85.32
+3021,2,2,2,Prime,0,Unfurnished,225.67
+1332,2,2,2,Developing,2,Unfurnished,62.16
+1563,1,1,27,Prime,1,Furnished,124.91
+3422,6,6,1,Good,2,Semi-Furnished,277.82
+4008,6,6,13,Good,2,Furnished,307.77
+2965,5,5,0, متوسط,1,Unfurnished,232.62
+3886,6,6,10,Good,0,Furnished,289.91
+3653,6,6,21,Developing,3,Furnished,256.98
+2253,3,2,6,Good,1,Unfurnished,154.43
+3338,5,4,16, متوسط,0,Semi-Furnished,227.04
+1681,1,1,35,Good,1,Unfurnished,90.77
+2176,4,5,2,Prime,3,Furnished,191.71
+2457,3,3,2,Good,1,Unfurnished,174.41
+4051,6,6,9, متوسط,3,Furnished,314.76
+3632,6,6,29,Good,1,Furnished,265.36
+2284,2,3,14,Developing,3,Semi-Furnished,155.26
+2897,5,5,23, متوسط,2,Furnished,206.72
+1208,3,2,1,Developing,0,Semi-Furnished,75.2
+3466,6,5,26,Good,2,Furnished,271.96
+2523,3,3,2, متوسط,1,Furnished,160.0
+2447,4,4,25, متوسط,0,Unfurnished,158.48
+3323,6,6,5, متوسط,2,Furnished,256.06
+2823,3,3,30,Developing,0,Unfurnished,168.63
+721,1,2,10, متوسط,2,Unfurnished,53.34
+1530,3,3,6,Developing,3,Furnished,103.79
+1112,2,2,12, متوسط,0,Unfurnished,73.15
+3205,5,5,0,Prime,1,Semi-Furnished,259.29
+581,2,2,5, متوسط,2,Semi-Furnished,57.83
+1209,2,3,21,Good,0,Furnished,118.09
+2690,5,4,10,Developing,1,Unfurnished,173.69
+3055,6,6,12, متوسط,1,Semi-Furnished,234.54
+2337,3,2,29,Prime,0,Semi-Furnished,180.48
+3677,5,6,4,Prime,3,Unfurnished,307.36
+3896,6,6,14,Prime,1,Semi-Furnished,304.28
+945,2,2,6,Good,3,Unfurnished,107.47
+4021,6,6,17,Prime,2,Unfurnished,307.24
+2753,3,3,11, متوسط,3,Unfurnished,195.08
+2835,6,5,1, متوسط,3,Unfurnished,205.74
+806,2,2,2,Developing,2,Unfurnished,37.77
+2782,4,5,30,Good,1,Furnished,211.54
+3171,6,5,2,Good,1,Unfurnished,254.78
+2627,4,3,28,Prime,3,Unfurnished,213.09
+766,1,1,32,Developing,1,Semi-Furnished,34.23
+2412,4,5,16,Prime,2,Semi-Furnished,229.14
+3959,5,5,11,Prime,0,Unfurnished,290.58
+3162,5,6,27,Good,3,Furnished,248.61
+965,3,4,35, متوسط,2,Semi-Furnished,87.76
+4049,6,6,4,Prime,1,Semi-Furnished,341.42
+4045,6,6,34, متوسط,2,Furnished,273.77
+1085,1,1,33, متوسط,1,Unfurnished,53.59
+3453,5,4,5, متوسط,0,Furnished,228.99
+1975,3,3,1,Good,3,Unfurnished,185.2
+2676,4,4,25,Prime,3,Unfurnished,220.29
+2119,4,3,2,Good,3,Semi-Furnished,188.78
+3384,4,3,21,Good,1,Unfurnished,268.97
+4187,6,5,2, متوسط,1,Furnished,304.39
+3431,5,6,24,Good,0,Unfurnished,229.18
+3942,6,6,8,Good,2,Unfurnished,291.46
+3997,5,6,3,Prime,1,Furnished,305.39
+787,2,2,2, متوسط,3,Unfurnished,74.13
+1400,3,3,6,Good,3,Semi-Furnished,130.87
+3156,6,6,19, متوسط,0,Semi-Furnished,222.39
+2662,3,3,2,Prime,3,Unfurnished,203.99
+638,2,1,28,Developing,0,Semi-Furnished,58.2
+806,2,2,21, متوسط,1,Semi-Furnished,70.17
+2402,2,3,10,Good,1,Furnished,179.0
+2760,4,4,35,Prime,3,Semi-Furnished,226.44
+1078,2,3,23,Good,2,Unfurnished,100.59
+1092,2,3,24,Prime,3,Furnished,125.87
+935,2,1,6,Good,2,Semi-Furnished,103.94
+2568,4,5,25,Developing,3,Furnished,184.1
+479,2,2,20, متوسط,3,Unfurnished,58.29
+2596,5,5,35,Prime,3,Semi-Furnished,226.07
+2234,1,1,17, متوسط,1,Semi-Furnished,140.97
+2197,3,3,24,Good,1,Furnished,164.19
+2997,4,3,12,Developing,3,Semi-Furnished,222.5
+2409,2,1,1,Prime,3,Unfurnished,189.81
+3179,5,6,4, متوسط,3,Semi-Furnished,247.14
+3314,6,5,31, متوسط,2,Semi-Furnished,237.09
+3900,5,5,26,Prime,3,Unfurnished,283.29
+3447,6,5,13,Prime,2,Semi-Furnished,271.44
+2391,3,2,25,Good,2,Semi-Furnished,167.91
+2295,3,3,0,Developing,0,Semi-Furnished,154.42
+1333,3,4,1, متوسط,2,Furnished,109.47
+2698,4,5,18, متوسط,2,Unfurnished,183.87
+971,2,2,22, متوسط,3,Unfurnished,79.2
+3942,5,5,33,Developing,3,Unfurnished,265.55
+3618,6,6,27,Good,1,Unfurnished,267.79
+899,2,1,9,Good,1,Semi-Furnished,58.1
+3397,5,6,29, متوسط,3,Semi-Furnished,245.88
+889,2,1,17,Good,3,Semi-Furnished,81.85
+3154,4,3,29,Developing,0,Unfurnished,195.66
+778,2,2,6,Prime,1,Unfurnished,100.62
+2280,3,2,0,Good,3,Semi-Furnished,182.49
+2916,4,5,2, متوسط,0,Unfurnished,207.85
+3183,5,6,35,Good,3,Unfurnished,231.25
+2019,3,3,2,Prime,0,Unfurnished,193.98
+3906,6,6,33,Good,0,Unfurnished,270.34
+3353,5,6,26, متوسط,3,Semi-Furnished,250.74
+1230,2,3,5,Developing,2,Semi-Furnished,109.28
+2967,5,6,31,Prime,2,Semi-Furnished,248.74
+3189,5,5,5,Prime,3,Semi-Furnished,247.71
+1701,2,1,5,Good,1,Unfurnished,145.4
+3218,6,6,20,Developing,2,Semi-Furnished,223.7
+3818,5,5,10,Good,2,Semi-Furnished,289.58
+3514,6,6,10,Developing,2,Semi-Furnished,240.3
+3309,6,6,7,Developing,1,Semi-Furnished,225.92
+2829,4,3,21,Good,2,Semi-Furnished,231.26
+1464,4,4,0, متوسط,1,Furnished,126.34
+3432,6,5,8, متوسط,2,Unfurnished,263.31
+1815,4,3,19,Good,3,Semi-Furnished,157.0
+2445,4,5,17,Good,1,Semi-Furnished,187.88
+1629,2,3,25, متوسط,2,Furnished,118.41
+1623,2,3,7, متوسط,3,Semi-Furnished,113.2
+1041,2,3,23, متوسط,3,Unfurnished,82.24
+4054,6,6,27,Developing,3,Unfurnished,256.13
+1004,2,2,13,Good,2,Furnished,97.42
+773,1,2,9, متوسط,1,Unfurnished,74.17
+3960,6,6,19,Developing,3,Unfurnished,272.2
+2531,5,5,20,Good,2,Semi-Furnished,185.92
+2092,4,3,3,Prime,0,Furnished,204.93
+3215,6,6,20,Good,1,Semi-Furnished,247.44
+1887,3,4,5,Developing,1,Unfurnished,129.83
+929,1,2,20,Good,3,Semi-Furnished,95.46
+3186,4,4,33, متوسط,0,Semi-Furnished,202.57
+1109,1,1,19,Prime,2,Unfurnished,90.36
+2523,4,3,27,Good,2,Unfurnished,204.99
+4008,6,6,11, متوسط,0,Unfurnished,277.28
+3960,6,6,33,Prime,2,Unfurnished,294.57
+1802,1,2,29,Developing,3,Furnished,106.8
+3376,4,5,33,Prime,2,Unfurnished,263.39
+2747,5,5,26,Developing,2,Semi-Furnished,184.39
+2247,3,4,23,Good,1,Furnished,154.9
+974,2,3,18,Developing,0,Unfurnished,58.33
+1861,2,1,33, متوسط,0,Furnished,131.03
+2894,6,6,30,Prime,1,Furnished,254.36
+4149,6,5,15,Prime,2,Semi-Furnished,315.38
+468,1,1,3,Prime,0,Semi-Furnished,94.97
+3141,6,6,0, متوسط,3,Furnished,261.43
+3623,6,6,8, متوسط,2,Semi-Furnished,264.07
+4016,6,6,2,Good,1,Unfurnished,297.29
+2039,3,2,7,Good,3,Unfurnished,166.95
+894,1,1,3, متوسط,0,Furnished,65.94
+1466,3,4,35, متوسط,3,Semi-Furnished,110.73
+3639,6,6,3, متوسط,1,Unfurnished,268.6
+3742,5,6,22,Good,1,Furnished,253.47
+2839,6,6,12, متوسط,1,Furnished,220.77
+910,1,2,6,Developing,3,Furnished,73.91
+907,3,3,25,Good,1,Semi-Furnished,103.57
+2243,4,5,34,Prime,3,Furnished,174.63
+2655,6,5,28,Prime,1,Unfurnished,216.75
+571,1,1,35, متوسط,1,Unfurnished,26.07
+3022,5,4,21,Good,2,Furnished,242.38
+2491,3,4,24,Developing,2,Semi-Furnished,163.18
+496,1,1,5, متوسط,1,Furnished,76.78
+808,2,1,30, متوسط,0,Furnished,67.09
+2153,4,5,26, متوسط,1,Unfurnished,149.09
+3159,5,5,9,Good,2,Semi-Furnished,248.27
+3545,4,3,12, متوسط,0,Unfurnished,226.53
+2067,2,1,21,Prime,0,Semi-Furnished,170.55
+1557,1,1,0, متوسط,3,Furnished,105.85
+4081,5,6,29,Developing,0,Semi-Furnished,250.42
+2169,3,3,10, متوسط,1,Furnished,166.86
+1632,3,4,2,Developing,3,Unfurnished,143.97
+2108,3,2,11,Good,1,Unfurnished,132.77
+495,1,1,30,Developing,1,Semi-Furnished,43.42
+1582,2,1,9, متوسط,0,Semi-Furnished,109.68
+2383,4,4,19, متوسط,3,Unfurnished,150.41
+3894,6,6,29,Prime,2,Unfurnished,258.5
+3218,4,5,1,Good,3,Furnished,236.49
+3379,5,5,27, متوسط,3,Furnished,239.06
+2493,5,6,10,Prime,1,Furnished,229.02
+864,2,2,25, متوسط,0,Semi-Furnished,72.27
+1915,3,2,6,Developing,1,Semi-Furnished,128.23
+4188,6,6,5,Developing,0,Furnished,277.99
+615,1,1,28,Prime,2,Semi-Furnished,70.37
+3747,6,5,29,Developing,0,Semi-Furnished,244.64
+3016,4,5,35,Prime,3,Furnished,241.4
+1514,3,4,24,Good,2,Unfurnished,117.5
+3367,4,3,16,Developing,1,Semi-Furnished,227.7
+3588,6,6,7,Prime,3,Semi-Furnished,291.03
+612,1,2,10,Prime,3,Semi-Furnished,82.12
+849,1,2,23,Prime,1,Semi-Furnished,85.64
+2946,5,4,12,Good,0,Unfurnished,232.43
+4196,6,6,17, متوسط,1,Semi-Furnished,288.84
+539,1,1,6,Prime,2,Semi-Furnished,77.11
+2946,4,4,15,Prime,3,Unfurnished,247.69
+961,1,1,8, متوسط,1,Unfurnished,96.57
+2887,5,5,4,Good,2,Unfurnished,232.2
+2787,3,3,4, متوسط,1,Furnished,214.09
+789,2,3,18,Developing,0,Furnished,76.73
+3002,4,4,13, متوسط,1,Unfurnished,198.69
+3813,5,4,3,Developing,0,Semi-Furnished,256.38
+3687,5,4,18,Good,1,Unfurnished,243.49
+558,2,3,5,Developing,1,Unfurnished,52.08
+1372,2,3,0,Good,1,Semi-Furnished,120.05
+1353,2,2,4,Prime,3,Semi-Furnished,137.88
+2149,4,3,16, متوسط,1,Semi-Furnished,148.9
+986,1,2,34,Prime,2,Semi-Furnished,91.58
+3653,6,5,8,Developing,2,Unfurnished,260.1
+3362,6,6,10, متوسط,2,Unfurnished,246.18
+3481,5,4,8,Developing,1,Semi-Furnished,214.68
+1193,2,1,12,Good,3,Unfurnished,95.56
+504,1,2,25,Good,0,Semi-Furnished,34.14
+3864,6,6,11, متوسط,1,Unfurnished,275.0
+1533,1,1,23,Good,3,Furnished,124.6
+2911,3,3,32, متوسط,1,Unfurnished,182.98
+3860,6,5,34, متوسط,2,Unfurnished,246.75
+585,1,1,20,Developing,0,Semi-Furnished,38.84
+470,2,2,25, متوسط,2,Semi-Furnished,42.36
+470,1,1,33,Prime,3,Unfurnished,48.94
+1036,1,2,28,Good,2,Furnished,97.58
+643,1,1,10, متوسط,2,Unfurnished,64.38
+3524,3,2,4,Prime,3,Unfurnished,275.01
+2722,4,4,4,Good,1,Unfurnished,202.11
+4125,6,6,31,Good,1,Semi-Furnished,304.58
+3455,5,5,20,Prime,0,Semi-Furnished,260.6
+4061,6,5,10,Good,2,Unfurnished,303.7
+1344,3,4,12,Prime,2,Semi-Furnished,140.29
+1529,2,2,10, متوسط,3,Furnished,119.81
+3635,4,3,28,Prime,2,Furnished,239.27
+1368,3,3,22, متوسط,0,Unfurnished,95.42
+664,1,1,31,Good,2,Semi-Furnished,60.16
+2959,5,6,10,Developing,3,Furnished,217.52
+3453,6,5,17,Prime,0,Semi-Furnished,294.94
+4080,5,5,4, متوسط,1,Unfurnished,265.85
+3929,6,6,34,Good,3,Semi-Furnished,275.93
+900,1,1,18,Good,1,Unfurnished,63.14
+3345,6,6,19,Good,3,Unfurnished,249.56
+3622,4,3,14,Developing,2,Unfurnished,243.09
+3067,4,4,9,Developing,2,Unfurnished,224.37
+3524,6,6,34,Good,2,Semi-Furnished,249.51
+3592,5,6,17,Prime,2,Unfurnished,271.53
+2124,4,3,24, متوسط,3,Furnished,146.43
+600,1,1,1, متوسط,3,Unfurnished,76.23
+2160,3,3,9,Good,1,Semi-Furnished,184.0
+1206,3,4,28, متوسط,3,Unfurnished,95.66
+876,1,2,3,Good,2,Unfurnished,71.38
+918,1,1,3, متوسط,2,Furnished,66.56
+3065,4,3,29,Good,1,Unfurnished,210.87
+2341,4,3,11,Good,1,Furnished,195.3
+2474,4,3,9,Good,2,Semi-Furnished,171.03
+3244,4,4,20, متوسط,1,Semi-Furnished,214.86
+2506,3,4,7,Prime,1,Semi-Furnished,230.5
+2812,4,3,1, متوسط,3,Semi-Furnished,206.5
+772,1,2,0, متوسط,1,Unfurnished,86.74
+3641,5,5,2, متوسط,2,Semi-Furnished,271.24
+2132,3,3,5,Prime,0,Semi-Furnished,173.1
+1032,1,2,25,Good,0,Unfurnished,73.9
+3499,6,5,10,Good,3,Unfurnished,265.9
+3204,6,6,2, متوسط,0,Furnished,235.69
+648,1,1,0,Developing,3,Unfurnished,44.2
+1173,1,1,17,Good,3,Furnished,120.75
+509,1,2,30,Developing,1,Semi-Furnished,19.17
+1465,2,2,12,Prime,3,Semi-Furnished,156.62
+824,1,1,2,Good,1,Unfurnished,74.98
+3112,4,4,8,Prime,3,Furnished,257.95
+2409,3,3,17, متوسط,0,Furnished,174.29
+4125,5,4,6,Prime,1,Unfurnished,300.59
+3260,5,6,35,Good,1,Furnished,245.56
+2743,5,4,27, متوسط,3,Semi-Furnished,172.56
+2359,2,2,12, متوسط,0,Unfurnished,156.62
+654,1,1,34,Prime,3,Unfurnished,42.45
+713,1,1,11,Prime,0,Furnished,88.04
+2761,5,6,5,Good,1,Semi-Furnished,237.06
+466,1,1,33,Good,2,Unfurnished,50.35
+608,1,1,34,Good,0,Semi-Furnished,33.46
+1271,1,1,11, متوسط,1,Furnished,79.92
+3765,6,6,21,Good,3,Furnished,277.86
+2170,4,4,6, متوسط,3,Semi-Furnished,175.98
+3110,3,4,23,Good,0,Unfurnished,186.02
+1993,3,3,24,Good,2,Semi-Furnished,153.96
+1099,3,4,25,Prime,2,Furnished,132.23
+1841,3,3,20,Good,0,Semi-Furnished,139.96
+793,2,2,25,Prime,2,Furnished,106.07
+3338,5,4,19,Good,2,Semi-Furnished,248.22
+1138,2,2,29,Developing,2,Unfurnished,63.64
+1861,2,1,6,Developing,1,Unfurnished,95.92
+4125,4,5,17,Good,1,Furnished,290.93
+2669,5,6,14, متوسط,2,Semi-Furnished,193.96
+2169,3,4,19, متوسط,2,Furnished,154.3
+2486,3,4,5,Developing,0,Furnished,180.53
+3390,4,3,11,Good,0,Semi-Furnished,256.91
+1404,1,1,34,Good,2,Semi-Furnished,97.36
+2836,4,5,3,Good,3,Unfurnished,231.18
+3722,5,5,22,Prime,0,Unfurnished,258.58
+2596,4,3,23,Good,0,Furnished,195.38
+2124,4,3,17,Developing,3,Unfurnished,148.15
+994,2,3,1,Developing,2,Semi-Furnished,102.37
+1381,2,2,1,Prime,3,Semi-Furnished,139.72
+3997,6,5,9,Good,3,Unfurnished,292.59
+2479,3,4,3,Good,3,Furnished,216.9
+1580,2,1,3,Good,0,Semi-Furnished,127.05
+2018,4,4,5, متوسط,1,Unfurnished,143.73
+2617,5,4,6,Prime,0,Semi-Furnished,256.95
+2465,3,3,30,Developing,0,Unfurnished,133.23
+3074,4,4,22,Developing,3,Furnished,208.29
+1415,3,4,1, متوسط,2,Unfurnished,127.64
+2884,5,5,22, متوسط,0,Furnished,211.03
+2110,3,2,4, متوسط,0,Furnished,154.07
+3977,6,5,15,Good,0,Semi-Furnished,284.77
+1042,1,1,1,Prime,1,Unfurnished,107.04
+1006,2,2,3, متوسط,1,Furnished,79.89
+2181,3,2,4,Prime,1,Unfurnished,210.56
+2356,4,4,15,Developing,3,Furnished,171.49
+3040,5,6,16,Good,0,Semi-Furnished,239.66
+1965,2,3,12,Good,2,Semi-Furnished,150.86
+3876,6,6,22,Good,1,Furnished,282.32
+2228,6,6,25,Developing,1,Unfurnished,159.52
+935,1,2,26,Prime,3,Semi-Furnished,81.33
+897,2,2,20,Prime,3,Unfurnished,101.31
+4100,6,6,19,Prime,0,Semi-Furnished,306.47
+952,2,1,17, متوسط,1,Semi-Furnished,88.07
+4004,6,6,8,Developing,0,Semi-Furnished,260.86
+1492,3,2,17,Good,1,Unfurnished,114.48
+800,2,3,0,Developing,2,Unfurnished,62.82
+1592,3,4,34,Good,1,Semi-Furnished,143.57
+2755,5,5,13, متوسط,1,Semi-Furnished,194.64
+2054,1,1,27,Prime,1,Semi-Furnished,159.37
+3395,6,6,34,Good,1,Semi-Furnished,259.97
+2741,5,5,17, متوسط,1,Semi-Furnished,199.95
+1952,4,5,31, متوسط,1,Semi-Furnished,127.19
+2829,3,4,17,Good,2,Unfurnished,187.48
+4092,6,6,4,Developing,0,Unfurnished,288.98
+1994,3,4,0,Developing,0,Unfurnished,127.84
+1025,2,2,4,Good,2,Unfurnished,105.88
+1982,3,3,33, متوسط,2,Semi-Furnished,136.03
+3600,6,6,17, متوسط,1,Unfurnished,258.18
+1266,1,2,11,Good,0,Furnished,113.04
+4009,6,6,16,Developing,2,Semi-Furnished,264.09
+2656,4,4,9,Good,1,Semi-Furnished,194.82
+2705,4,5,31, متوسط,2,Furnished,200.2
+1638,1,2,35,Prime,0,Unfurnished,113.69
+3901,6,6,3,Good,0,Unfurnished,256.8
+585,1,1,25, متوسط,2,Semi-Furnished,53.41
+1570,3,2,12, متوسط,1,Semi-Furnished,107.51
+2019,2,1,1,Developing,2,Unfurnished,139.2
+2239,3,3,33,Developing,2,Semi-Furnished,157.51
+2227,3,3,2,Prime,1,Unfurnished,191.99
+1004,2,3,7,Good,0,Unfurnished,108.22
+1295,2,1,0,Good,0,Semi-Furnished,116.27
+807,1,2,16,Good,3,Furnished,105.43
+2596,4,4,21,Good,0,Semi-Furnished,180.18
+1765,4,3,11,Developing,2,Furnished,138.43
+2571,4,4,2, متوسط,3,Semi-Furnished,206.48
+2661,4,3,4,Prime,3,Furnished,230.57
+3082,5,6,33,Good,1,Furnished,244.09
+2501,3,4,29, متوسط,0,Semi-Furnished,158.82
+2879,5,6,33,Good,3,Furnished,248.93
+2651,3,3,19,Prime,2,Unfurnished,232.02
+2896,5,5,19,Good,1,Furnished,229.31
+2762,4,3,28,Good,2,Unfurnished,201.94
+1635,4,5,22,Good,0,Furnished,160.93
+1373,1,1,15, متوسط,2,Furnished,85.22
+3402,5,4,10,Good,2,Furnished,243.17
+1735,4,3,17, متوسط,1,Unfurnished,145.55
+2509,5,5,2,Good,1,Semi-Furnished,214.98
+1188,1,1,6,Developing,1,Semi-Furnished,77.92
+2067,3,2,26,Prime,0,Furnished,169.82
+2436,4,4,31,Prime,0,Unfurnished,162.0
+2797,5,6,3,Good,3,Furnished,236.8
+2423,3,3,3,Good,1,Semi-Furnished,179.88
+1802,3,4,3,Good,0,Unfurnished,162.48
+4056,5,6,28, متوسط,0,Furnished,283.52
+2372,4,5,11,Good,1,Semi-Furnished,199.73
+3481,6,6,11,Prime,3,Unfurnished,290.75
+3212,5,6,0,Good,1,Semi-Furnished,236.89
+2543,3,4,35, متوسط,3,Furnished,181.0
+3774,6,6,15,Developing,1,Semi-Furnished,268.07
+931,2,2,28, متوسط,3,Furnished,92.85
+3903,5,4,25, متوسط,3,Unfurnished,283.63
+3638,5,5,5, متوسط,0,Semi-Furnished,236.03
+2338,2,3,28, متوسط,0,Semi-Furnished,142.33
+3200,4,5,19,Good,3,Furnished,233.24
+2401,3,3,21, متوسط,3,Unfurnished,166.08
+1457,3,2,7, متوسط,0,Unfurnished,110.65
+3449,5,5,30,Good,2,Furnished,248.89
+1372,3,4,33, متوسط,3,Unfurnished,115.14
+1629,2,2,14,Good,3,Semi-Furnished,121.18
+2397,4,4,3,Good,1,Unfurnished,179.69
+3590,5,5,30,Prime,3,Semi-Furnished,262.66
+1889,4,3,31, متوسط,2,Furnished,136.02
+2303,3,2,18,Developing,3,Unfurnished,134.62
+606,1,2,20,Prime,0,Unfurnished,73.65
+884,1,1,8,Good,2,Semi-Furnished,84.13
+659,1,2,2,Prime,0,Furnished,87.41
+720,1,1,33,Prime,1,Unfurnished,81.84
+3706,6,6,17,Developing,0,Furnished,256.27
+3607,5,5,9,Good,1,Semi-Furnished,280.29
+3532,6,6,24,Good,3,Semi-Furnished,265.02
+658,1,2,0,Good,2,Furnished,85.8
+741,1,1,2,Developing,1,Furnished,55.9
+1502,1,1,8,Good,1,Furnished,121.53
+2569,4,5,16, متوسط,1,Unfurnished,191.94
+1702,3,3,13,Good,2,Semi-Furnished,140.32
+2278,2,1,6,Prime,1,Unfurnished,186.31
+1098,2,2,12, متوسط,0,Unfurnished,72.24
+3190,6,5,12,Prime,2,Unfurnished,272.76
+1627,2,2,18, متوسط,3,Semi-Furnished,111.73
+699,1,1,20,Good,1,Semi-Furnished,75.87
+3235,6,5,31, متوسط,0,Semi-Furnished,223.51
+3835,6,5,29, متوسط,0,Semi-Furnished,275.33
+505,1,2,10, متوسط,3,Unfurnished,38.83
+2087,1,1,32,Prime,3,Unfurnished,134.47
+3551,6,5,18, متوسط,0,Semi-Furnished,241.21
+3098,5,6,6,Developing,0,Semi-Furnished,204.57
+3662,5,6,12,Good,0,Unfurnished,248.72
+2007,3,4,26,Good,1,Furnished,165.74
+1845,2,3,29, متوسط,3,Unfurnished,122.67
+3109,4,5,13,Prime,0,Semi-Furnished,240.79
+1026,2,2,5, متوسط,3,Unfurnished,85.44
+1347,1,1,6, متوسط,0,Unfurnished,83.72
+2703,5,6,3,Prime,2,Semi-Furnished,264.22
+2956,3,2,25, متوسط,1,Furnished,182.9
+898,1,1,18, متوسط,3,Unfurnished,50.02
+2356,5,6,16,Good,1,Semi-Furnished,206.93
+1818,4,5,24,Developing,1,Semi-Furnished,130.3
+2331,4,4,29,Prime,0,Semi-Furnished,214.62
+4044,5,6,28,Good,3,Semi-Furnished,281.11
+737,1,2,4,Developing,1,Unfurnished,66.49
+4182,6,6,21,Good,1,Furnished,317.05
+2135,3,2,31,Developing,2,Semi-Furnished,126.92
+3345,5,5,27,Prime,2,Unfurnished,248.01
+2041,3,2,11,Good,2,Furnished,174.9
+1616,2,3,14,Prime,1,Semi-Furnished,155.78
+3339,4,3,32, متوسط,0,Unfurnished,189.52
+3028,4,5,1, متوسط,0,Unfurnished,202.35
+990,2,1,18,Developing,0,Semi-Furnished,34.51
+3095,4,4,4,Developing,2,Unfurnished,218.57
+3274,5,4,32, متوسط,2,Furnished,221.43
+1904,2,3,1, متوسط,2,Semi-Furnished,143.72
+3921,6,6,0,Good,3,Unfurnished,280.06
+2853,4,5,11,Developing,0,Unfurnished,178.59
+1701,4,3,7, متوسط,3,Semi-Furnished,138.37
+490,1,1,17,Developing,3,Semi-Furnished,32.03
+2981,4,5,10,Good,2,Semi-Furnished,230.87
+1233,2,3,12,Good,2,Furnished,125.62
+3286,4,3,20, متوسط,0,Unfurnished,238.57
+2419,3,3,20,Good,0,Unfurnished,170.9
+2200,4,4,33,Good,0,Semi-Furnished,176.73
+1064,1,1,17,Developing,2,Semi-Furnished,59.21
+3118,6,6,20,Good,1,Semi-Furnished,222.09
+1072,1,1,24,Good,0,Furnished,80.83
+2016,3,4,6,Good,0,Unfurnished,142.11
+3586,5,4,24,Good,0,Semi-Furnished,251.11
+3901,6,5,31, متوسط,2,Furnished,259.04
+4159,6,6,11,Developing,2,Semi-Furnished,263.34
+4042,6,6,6,Developing,2,Unfurnished,300.44
+2534,5,5,12, متوسط,0,Furnished,188.62
+1201,4,5,9, متوسط,0,Semi-Furnished,94.55
+3596,5,5,21,Good,0,Semi-Furnished,267.41
+3456,5,5,31,Developing,3,Furnished,224.19
+4163,5,4,21,Good,2,Semi-Furnished,302.7
+2891,4,3,4,Prime,1,Semi-Furnished,227.7
+980,1,1,11,Developing,0,Furnished,60.96
+2335,3,3,24,Developing,1,Furnished,157.56
+2130,2,3,11,Good,3,Unfurnished,170.22
+3611,5,5,21, متوسط,0,Semi-Furnished,253.68
+1922,2,3,24,Good,3,Semi-Furnished,146.13
+1682,3,3,11,Good,1,Semi-Furnished,149.3
+750,1,1,23,Good,0,Unfurnished,68.95
+3582,6,6,14,Prime,3,Unfurnished,292.02
+3282,5,5,4, متوسط,2,Unfurnished,236.7
+604,1,1,13,Good,2,Semi-Furnished,50.13
+2076,2,2,15,Good,0,Semi-Furnished,158.02
+2248,5,4,0,Good,1,Semi-Furnished,195.95
+2209,4,4,32,Developing,2,Semi-Furnished,143.53
+3895,6,6,19, متوسط,2,Semi-Furnished,290.41
+1015,1,1,1,Developing,0,Furnished,58.74
+1598,3,2,31,Prime,2,Semi-Furnished,161.37
+1128,1,1,30, متوسط,3,Semi-Furnished,74.47
+1365,3,3,0,Developing,3,Furnished,124.49
+3851,6,6,5,Good,0,Semi-Furnished,285.01
+3977,6,5,13,Good,3,Unfurnished,271.78
+617,1,1,18,Good,2,Semi-Furnished,63.26
+2820,4,3,26,Good,0,Unfurnished,198.82
+1323,3,3,15,Good,0,Semi-Furnished,126.23
+1172,3,2,22,Good,3,Unfurnished,103.18
+1545,3,3,0,Good,0,Unfurnished,109.76
+1178,1,2,23, متوسط,0,Furnished,63.24
+2288,4,5,32,Prime,1,Unfurnished,212.16
+4183,6,6,18,Good,2,Furnished,295.45
+2649,3,4,16, متوسط,2,Semi-Furnished,202.72
+3162,5,4,10,Prime,2,Unfurnished,243.5
+2299,4,4,34,Good,3,Semi-Furnished,173.46
+502,1,1,1,Good,3,Semi-Furnished,79.66
+765,1,2,10,Prime,0,Semi-Furnished,83.63
+1458,2,2,4,Good,0,Furnished,147.1
+1363,2,3,31,Prime,0,Furnished,126.32
+3602,5,4,17,Good,1,Furnished,268.39
+3613,5,4,33,Developing,1,Furnished,228.85
+3652,5,4,23,Developing,3,Semi-Furnished,249.61
+2840,4,4,20,Good,1,Semi-Furnished,228.45
+2535,4,4,18,Good,0,Semi-Furnished,189.95
+2884,4,3,7,Good,3,Unfurnished,238.93
+1975,3,4,20,Developing,1,Furnished,132.09
+2963,5,6,24, متوسط,3,Semi-Furnished,226.73
+3429,4,4,34,Prime,3,Unfurnished,256.66
+3310,5,4,19,Prime,3,Unfurnished,246.68
+2751,4,5,33,Good,3,Semi-Furnished,206.92
+667,1,2,34,Developing,0,Furnished,38.57
+3168,6,5,18,Developing,2,Unfurnished,210.3
+1824,1,1,15,Prime,1,Unfurnished,148.07
+3238,3,3,5, متوسط,2,Semi-Furnished,223.7
+2473,4,4,9,Prime,2,Furnished,219.09
+3754,6,5,31, متوسط,2,Furnished,259.5
+1719,3,4,4,Developing,1,Semi-Furnished,130.66
+3942,6,6,14,Good,3,Unfurnished,288.0
+3616,6,6,25,Prime,2,Unfurnished,283.51
+1691,3,2,8, متوسط,3,Semi-Furnished,126.48
+2259,4,5,35,Good,0,Semi-Furnished,200.38
+2442,4,3,23, متوسط,3,Unfurnished,153.55
+3332,3,4,1,Good,1,Semi-Furnished,236.39
+3034,5,5,8,Developing,1,Unfurnished,205.6
+3645,6,6,26,Good,3,Semi-Furnished,296.76
+1837,3,2,31,Prime,1,Semi-Furnished,136.44
+2342,3,2,33,Good,1,Semi-Furnished,166.87
+2065,4,5,30,Prime,3,Semi-Furnished,188.56
+3860,6,6,2,Good,3,Unfurnished,299.7
+1593,4,4,26, متوسط,1,Semi-Furnished,138.85
+2651,3,2,3,Prime,1,Semi-Furnished,229.84
+900,1,2,2,Prime,0,Semi-Furnished,100.69
+3638,6,6,24,Prime,0,Semi-Furnished,285.02
+1890,3,4,17,Prime,2,Semi-Furnished,150.83
+1727,2,3,23,Developing,1,Unfurnished,108.32
+2635,4,5,30,Developing,3,Semi-Furnished,169.4
+2320,4,5,2,Prime,0,Semi-Furnished,208.06
+3629,6,6,18, متوسط,2,Semi-Furnished,240.87
+2442,4,4,30, متوسط,2,Furnished,179.47
+2388,3,2,15,Developing,2,Unfurnished,133.13
+843,2,2,18,Good,0,Semi-Furnished,82.84
+532,1,2,17,Good,1,Semi-Furnished,46.89
+1944,3,4,32,Good,2,Unfurnished,135.22
+4193,6,6,1,Developing,1,Unfurnished,302.52
+3890,6,6,31, متوسط,3,Unfurnished,272.56
+2808,3,2,29,Good,2,Semi-Furnished,206.28
+2815,3,3,29,Good,1,Semi-Furnished,212.29
+1918,1,1,14, متوسط,0,Unfurnished,107.82
+1115,2,3,18,Developing,0,Semi-Furnished,96.21
+482,1,1,13,Good,1,Semi-Furnished,40.67
+1720,2,1,9, متوسط,1,Semi-Furnished,130.4
+1636,3,3,31,Good,3,Unfurnished,122.51
+1168,1,1,18,Good,3,Furnished,90.58
+1421,2,2,26, متوسط,0,Semi-Furnished,102.03
+543,1,1,3, متوسط,2,Furnished,72.95
+2729,5,6,28,Developing,1,Semi-Furnished,200.08
+3927,6,6,23,Good,0,Unfurnished,280.81
+3040,4,3,35,Good,2,Semi-Furnished,211.63
+2130,3,2,4,Good,2,Semi-Furnished,177.77
+2026,4,3,19,Prime,0,Unfurnished,176.33
+1603,3,2,18,Good,1,Unfurnished,133.36
+984,1,2,19,Prime,2,Semi-Furnished,107.12
+2694,5,4,1,Good,1,Unfurnished,225.43
+2574,3,2,17,Prime,1,Semi-Furnished,182.39
+477,2,3,10,Good,0,Unfurnished,63.76
+2008,4,5,22, متوسط,0,Furnished,137.53
+1492,3,2,8,Good,3,Semi-Furnished,139.58
+1088,2,1,15, متوسط,2,Semi-Furnished,104.99
+3086,5,5,22,Developing,0,Furnished,205.24
+2421,4,4,2, متوسط,1,Semi-Furnished,186.68
+2826,4,5,28,Good,0,Furnished,217.31
+3125,5,5,25,Good,1,Semi-Furnished,205.81
+4131,6,5,2, متوسط,0,Furnished,288.64
+3460,5,5,2,Good,2,Furnished,274.87
+2776,4,4,30,Prime,2,Unfurnished,180.22
+3746,5,5,10,Good,2,Unfurnished,261.31
+2240,3,3,30, متوسط,1,Unfurnished,157.51
+4142,5,6,17,Good,1,Semi-Furnished,307.0
+3305,6,6,12, متوسط,0,Furnished,250.67
+2890,6,5,9,Prime,0,Semi-Furnished,258.69
+3837,6,6,23,Good,1,Semi-Furnished,282.37
+2381,2,3,3, متوسط,1,Furnished,178.77
+3152,5,5,14,Good,2,Unfurnished,233.97
+1517,3,3,12, متوسط,0,Semi-Furnished,119.12
+4062,6,5,5,Good,1,Unfurnished,289.07
+2787,4,3,12,Good,3,Semi-Furnished,228.75
+3382,4,5,19,Developing,3,Semi-Furnished,245.42
+2177,4,5,24,Good,3,Semi-Furnished,195.19
+3700,5,6,3,Good,1,Unfurnished,270.85
+728,1,1,31,Developing,0,Semi-Furnished,25.14
+877,1,1,31, متوسط,0,Furnished,72.11
+2351,4,3,24, متوسط,0,Furnished,171.83
+3196,6,6,33,Prime,3,Semi-Furnished,263.97
+3484,5,5,15,Prime,3,Unfurnished,267.27
+2100,2,3,29, متوسط,3,Unfurnished,141.86
+2886,3,4,26,Good,2,Unfurnished,188.11
+2524,4,3,20,Good,1,Unfurnished,192.53
+4055,6,6,6, متوسط,1,Unfurnished,302.37
+2902,3,2,20,Good,3,Semi-Furnished,225.58
+2013,3,2,32,Prime,3,Semi-Furnished,174.82
+4086,6,6,35,Prime,2,Furnished,292.6
+852,1,1,16,Good,3,Furnished,88.03
+4142,6,6,8, متوسط,1,Semi-Furnished,318.99
+1027,2,2,26,Developing,1,Furnished,61.06
+1530,3,2,2,Prime,3,Unfurnished,154.54
+3530,5,5,5,Good,1,Unfurnished,278.86
+3201,5,5,20, متوسط,3,Semi-Furnished,237.46
+4088,5,6,35,Good,1,Unfurnished,306.05
+3262,5,4,11,Good,1,Semi-Furnished,235.27
+2838,4,3,15,Developing,0,Furnished,178.06
+1749,2,2,11, متوسط,2,Semi-Furnished,142.13
+467,1,1,15,Good,1,Furnished,45.78
+914,1,2,0,Developing,1,Semi-Furnished,70.31
+1566,3,2,21,Prime,2,Furnished,149.59
+603,1,1,21,Developing,0,Furnished,52.65
+2355,1,2,11,Good,0,Furnished,174.65
+3365,6,5,9,Good,3,Unfurnished,266.21
+4062,4,3,27,Developing,2,Furnished,249.63
+2286,3,4,6,Good,2,Semi-Furnished,199.71
+3731,6,6,1,Good,0,Semi-Furnished,334.06
+4145,6,5,1,Good,2,Semi-Furnished,318.62
+3674,4,3,31, متوسط,1,Semi-Furnished,233.22
+2193,2,3,13, متوسط,2,Furnished,142.19
+1669,3,4,3,Good,0,Semi-Furnished,140.5
+4117,5,5,31, متوسط,2,Semi-Furnished,268.22
+1357,3,3,5, متوسط,2,Unfurnished,108.07
+1993,3,4,12,Good,1,Semi-Furnished,162.42
+727,1,1,0,Prime,0,Semi-Furnished,116.02
+3426,5,4,24,Good,3,Semi-Furnished,264.6
+2886,4,5,25,Prime,2,Furnished,233.57
+768,2,1,27,Prime,2,Semi-Furnished,75.39
+1282,3,4,9,Good,3,Furnished,150.51
+2532,3,3,11,Prime,2,Semi-Furnished,208.62
+2476,3,4,33,Good,0,Unfurnished,148.31
+3457,5,4,29, متوسط,1,Furnished,242.63
+1447,3,4,1,Good,3,Furnished,161.04
+3917,5,4,24,Developing,1,Unfurnished,217.52
+2116,5,4,29,Developing,3,Semi-Furnished,143.44
+3534,5,6,20, متوسط,0,Unfurnished,238.74
+1343,1,1,23,Developing,1,Unfurnished,82.93
+588,1,2,0,Developing,1,Unfurnished,44.55
+656,1,1,1,Good,2,Semi-Furnished,68.14
+1847,2,1,1, متوسط,0,Semi-Furnished,139.86
+4024,6,6,5,Prime,0,Semi-Furnished,310.65
+632,1,2,35, متوسط,2,Semi-Furnished,51.41
+1833,1,1,22,Good,1,Semi-Furnished,113.38
+859,1,2,28,Prime,3,Semi-Furnished,78.22
+3943,5,6,10,Good,3,Furnished,306.63
+2982,4,5,33,Developing,1,Furnished,198.09
+3310,4,4,7,Good,2,Furnished,261.37
+3124,4,5,32,Good,1,Furnished,218.13
+2913,6,6,1,Good,1,Unfurnished,229.72
+3351,5,6,0,Good,2,Furnished,285.33
+480,1,1,2,Developing,1,Semi-Furnished,26.02
+3695,4,4,28, متوسط,0,Unfurnished,246.84
+3224,4,4,9,Good,1,Semi-Furnished,253.62
+3222,5,5,16,Good,3,Semi-Furnished,257.13
+1925,2,3,16,Prime,1,Unfurnished,152.32
+3453,6,6,28,Good,1,Semi-Furnished,245.62
+1881,2,2,12, متوسط,2,Semi-Furnished,131.53
+633,1,1,0, متوسط,0,Unfurnished,39.97
+3854,5,5,13,Good,1,Unfurnished,262.98
+1329,2,1,10, متوسط,0,Unfurnished,100.53
+832,1,1,26,Good,3,Unfurnished,77.85
+2782,4,3,27, متوسط,3,Semi-Furnished,177.97
+1326,2,2,3,Good,3,Unfurnished,128.99
+3667,5,6,28, متوسط,0,Semi-Furnished,251.64
+2114,4,4,2,Good,2,Unfurnished,197.89
+466,1,1,22,Developing,2,Unfurnished,35.86
+4018,6,5,14,Good,3,Unfurnished,306.09
+2379,3,4,10,Prime,0,Unfurnished,201.37
+1436,3,2,17,Good,2,Semi-Furnished,136.59
+2989,4,5,11,Good,0,Unfurnished,204.8
+2439,4,5,28, متوسط,2,Semi-Furnished,173.48
+561,1,2,34, متوسط,3,Semi-Furnished,43.69
+3298,6,5,29, متوسط,0,Unfurnished,220.62
+1955,2,1,15,Good,0,Unfurnished,142.3
+3074,5,4,18, متوسط,3,Semi-Furnished,228.78
+3808,4,5,16, متوسط,0,Semi-Furnished,257.75
+2739,4,3,28,Good,2,Semi-Furnished,195.92
+2968,6,6,19,Good,2,Furnished,232.26
+1404,3,2,16,Prime,1,Semi-Furnished,151.39
+1341,2,1,14,Good,3,Unfurnished,115.55
+2006,3,2,13, متوسط,3,Semi-Furnished,136.06
+3647,6,6,19,Developing,1,Unfurnished,244.61
+2415,4,4,24, متوسط,0,Furnished,151.11
+1755,2,2,15,Good,0,Unfurnished,129.6
+3373,5,5,29, متوسط,0,Semi-Furnished,223.78
+3650,6,6,29, متوسط,3,Unfurnished,246.71
+3834,5,5,15,Good,2,Semi-Furnished,297.64
+1571,2,2,32,Developing,2,Unfurnished,78.13
+3111,4,3,6,Prime,0,Unfurnished,249.28
+2663,4,3,33,Prime,3,Semi-Furnished,236.36
+2133,4,4,10,Prime,2,Furnished,213.54
+1938,3,2,20,Prime,3,Semi-Furnished,169.61
+879,2,2,10,Developing,1,Unfurnished,52.14
+1480,2,1,15,Good,2,Semi-Furnished,103.51
+2511,4,5,12,Good,2,Semi-Furnished,197.37
+3774,6,5,25,Good,1,Semi-Furnished,263.58
+3698,6,5,2,Good,2,Semi-Furnished,276.46
+1153,1,1,30,Good,1,Unfurnished,76.2
+2997,6,5,32,Prime,3,Unfurnished,241.31
+768,1,1,20, متوسط,2,Unfurnished,60.76
+2981,4,3,19,Prime,2,Unfurnished,215.35
+1732,3,2,25, متوسط,2,Unfurnished,110.72
+2136,3,4,7,Good,1,Semi-Furnished,171.81
+3141,4,5,26, متوسط,3,Unfurnished,211.01
+2043,4,3,7, متوسط,0,Furnished,181.45
+3477,5,6,24,Prime,2,Semi-Furnished,276.12
+2450,3,4,11,Prime,0,Unfurnished,179.54
+4195,6,6,26,Developing,1,Semi-Furnished,281.54
+2843,5,5,28,Good,2,Semi-Furnished,222.21
+1561,1,2,7, متوسط,1,Semi-Furnished,110.2
+3357,6,6,22,Prime,3,Semi-Furnished,261.47
+1979,4,4,17,Good,2,Unfurnished,183.69
+2453,4,4,10,Good,1,Semi-Furnished,181.88
+963,3,4,21,Developing,1,Furnished,91.04
+897,2,3,35,Good,2,Semi-Furnished,83.59
+2605,4,3,0, متوسط,3,Semi-Furnished,205.58
+1150,1,1,34, متوسط,1,Furnished,92.83
+4190,6,6,30,Prime,2,Semi-Furnished,320.89
+3658,6,5,19,Good,2,Semi-Furnished,265.14
+3078,5,6,21,Good,0,Furnished,248.61
+3205,4,5,13,Good,3,Semi-Furnished,234.75
+2682,4,5,4, متوسط,2,Semi-Furnished,205.87
+676,1,1,20,Good,0,Unfurnished,42.36
+1921,2,2,29,Good,2,Semi-Furnished,125.81
+2309,2,2,8, متوسط,2,Furnished,164.81
+3882,6,6,25, متوسط,3,Unfurnished,273.38
+1273,1,2,26,Good,0,Semi-Furnished,73.59
+2313,4,4,27, متوسط,1,Furnished,172.93
+1740,2,2,12,Good,0,Unfurnished,120.47
+953,3,4,14, متوسط,2,Furnished,112.97
+836,1,2,14,Good,2,Unfurnished,74.56
+1820,3,4,30,Good,1,Unfurnished,123.92
+759,1,1,32,Prime,3,Unfurnished,80.05
+701,1,2,14, متوسط,2,Unfurnished,47.36
+1765,3,2,34, متوسط,1,Semi-Furnished,131.6
+1207,1,1,20,Good,0,Unfurnished,87.09
+2530,5,5,13,Developing,1,Semi-Furnished,182.88
+516,1,1,0,Developing,3,Semi-Furnished,59.68
+1581,3,3,21,Prime,1,Semi-Furnished,135.85
+2149,4,4,23, متوسط,3,Furnished,150.08
+4061,6,6,34,Good,2,Furnished,296.36
+2829,6,5,25,Developing,2,Furnished,192.15
+3752,5,4,1,Good,1,Furnished,268.31
+1737,2,1,20,Good,2,Semi-Furnished,140.78
+2136,2,2,26,Good,0,Unfurnished,149.28
+2026,4,3,17,Good,0,Semi-Furnished,145.93
+3777,6,6,15, متوسط,1,Unfurnished,257.26
+4047,6,6,29,Good,2,Unfurnished,275.09
+4058,5,6,22,Good,2,Unfurnished,306.91
+3269,6,5,24,Good,1,Semi-Furnished,255.57
+2336,3,4,16,Developing,1,Unfurnished,148.83
+2478,5,4,10, متوسط,2,Unfurnished,194.0
+4126,6,5,18,Good,2,Unfurnished,277.96
+1517,3,2,34,Good,0,Unfurnished,101.16
+1750,3,2,21,Prime,1,Semi-Furnished,155.26
+3813,5,6,25,Developing,2,Semi-Furnished,258.59
+1898,1,1,4, متوسط,3,Unfurnished,128.82
+1331,2,3,35, متوسط,1,Semi-Furnished,92.53
+2551,3,3,8,Developing,3,Unfurnished,173.65
+1670,1,1,34,Prime,2,Furnished,131.49
+3790,6,6,16, متوسط,1,Furnished,269.2
+3858,6,5,33,Good,2,Semi-Furnished,268.62
+1597,3,3,32,Prime,3,Furnished,153.42
+2435,3,3,27,Good,0,Unfurnished,172.4
+4139,6,6,32,Good,0,Furnished,294.43
+3233,6,5,21,Developing,1,Unfurnished,205.52
+1258,2,3,30,Good,0,Furnished,91.3
+2665,5,5,6, متوسط,3,Unfurnished,210.46
+2774,4,3,2, متوسط,3,Semi-Furnished,224.03
+2900,4,4,19, متوسط,2,Furnished,208.78
+543,1,1,29,Developing,3,Furnished,34.27
+1572,1,2,27,Good,0,Semi-Furnished,112.5
